@@ -1,14 +1,9 @@
 # William Lastner
-Temple University Student -
-ECE Major
-
-
+Temple University Student -ECE Major <br>
+Eagle Scout
 
 ## Useful Links
 www.linkedin.com/in/william-lastner <br>
 https://github.com/W-Lastner <br>
-
-
-
-
+<br>
 *when I learn ways to improve this page, I will make sure to do so, this is currently just a rudimentary page so I have it done. 
