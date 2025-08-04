@@ -1,10 +1,10 @@
 # William Lastner
-Temple University Student
+Temple University Student -
 ECE Major
 
 
 
-##Useful Links
+## Useful Links
 www.linkedin.com/in/william-lastner
 https://github.com/W-Lastner
 
