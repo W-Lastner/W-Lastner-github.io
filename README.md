@@ -5,8 +5,8 @@ ECE Major
 
 
 ## Useful Links
-www.linkedin.com/in/william-lastner
-https://github.com/W-Lastner
+www.linkedin.com/in/william-lastner; 
+https://github.com/W-Lastner; 
 
 
 
